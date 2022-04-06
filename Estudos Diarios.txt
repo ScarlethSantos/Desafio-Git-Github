@@ -1,0 +1,12 @@
+# Estudos Diários :book:
+
+###### Acompanhamento de cada tema aprendido diariamente :woman_student:
+
+###### Terça-feira 05.04
+
+- Projetos ágeis com SCRUM
+- Primeiro Projeto Github
+
+###### Quarta-feira 06.04
+
+- Introdução ao Ecossistema .NET e Documentação

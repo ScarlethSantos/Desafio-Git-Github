@@ -1,0 +1,30 @@
+# Anotações importantes :spiral_notepad:
+
+### Git - Github
+
+###### 	Trazer repertório criado no Github para o diretório local
+
+1. Crie o repertório no site do Github
+2. Depois de preencher o nome e a descrição escolha se o seu arquivo será público ou privado
+3. Após isso não esqueça de selecionar "Add a README file" essa seleção irá gerar um documento em .txt isso facilitará para alterações do documento no próprio diretório do computador.
+4. Ao finalizar gere o Commit
+5. Por último vá em "CODE" e clone o endereço local https
+
+##### 	Usando o Git Bash para clonar repertório no diretório local
+
+1. Abra o Git Bash já dentro da pasta local onde ficará o repertório
+2. Dê um **git clone "endereço copiado do Gthub"**
+3. **cd "pasta criada com nome do repertório do Github** ex: desafio-git-github"
+4. Pronto! Agora já estamos dentro da pasta do repertório que agora já está no nosso computador. As informações inseridas estarão dentro do arquivo README
+5. Se você der um **git status** ele informará que não há nada para comitar, que a área de trabalho está limpa (clean). 
+
+###### 	Levar alterações feitas no diretório local para a nuvem (Github)
+
+1. Na pasta do repertório abra o Git Brash
+2. Em seguida dê um **git status**
+3. Você notará que o nome do arquivo alterado aparecerá em vermelho, ou seja, ele precisa ser commitado
+4. Dê um **git add .** ou git -A
+5. Em seguida um **git status** Note que o arquivo agora está em verde, ou seja ele já foi commitado e agora apenas precisa ser empurrado (push) para a nuvem
+6. Agora dê um **git commit -m "inclua uma mgs informando qual foi a alteração"**
+7. **git status** novamente e prontooo! Nossas alterações já estão no Github para todos visualizarem o quanto você é criativa e inteligente. 
+
